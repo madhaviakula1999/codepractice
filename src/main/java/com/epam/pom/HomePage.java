@@ -12,7 +12,7 @@ public class HomePage {
 	}
 
 	public static void enterTextInsearchbar(WebDriver driver) {
-		driver.findElement(By.xpath("//input[@placeholder=\"Search Facebook\"][1]")).sendKeys("Madhavi");
+		driver.findElement(By.xpath("//input[@placeholder=\"Search Facebook\"][0]")).sendKeys("Madhavi");
 	}
 
 }
