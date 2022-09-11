@@ -1,18 +1,23 @@
 package com.epam.pom;
 
-import org.openqa.selenium.By;
-import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.support.FindBy;
 
-public class HomePage {
+import com.epam.Utils.Constants;
 
-	static WebDriver driver;
+public class HomePage  {
 
-	public static void homePageShouldBevisible(WebDriver driver) {
-		driver.findElement(By.xpath("//input[@placeholder=\"Search Facebook\"][1]"));
+	@FindBy(id = "//input[@placeholder=\\\"Search Facebook\\\"][0]")
+	WebElement homePage;
+
+	public void homePageShouldBevisible() {
+		// TODO Auto-generated method stub
+		homePage.isDisplayed();
 	}
 
-	public static void enterTextInsearchbar(WebDriver driver) {
-		driver.findElement(By.xpath("//input[@placeholder=\"Search Facebook\"][0]")).sendKeys("Madhavi");
+	public void enterTextInsearchbar() {
+		// TODO Auto-generated method stub
+		homePage.sendKeys(Constants.searchText);
 	}
 
 }

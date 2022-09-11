@@ -1,26 +1,38 @@
 package com.epam.pom;
 
-import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.support.FindBy;
 
-public class SigninPage  {
+import com.epam.Utils.Constants;
 
-	public static void openBrowser(WebDriver driver)				
-    {							
-        driver.get("https://www.facebook.com/");
-        driver.manage().window().maximize();
-    }
+public class SigninPage extends PageFactorySetUp {
 
-	public static void loginDetails(WebDriver driver) {
-		driver.findElement(By.id("email")).sendKeys("tejadt@gmail.com");							
-        driver.findElement(By.id("pass")).sendKeys("nitt@123");							
-    }
+	public SigninPage(WebDriver driver) {
+		super(driver);
+	}
 
-	public static void clickOnLogin(WebDriver driver) {
-		driver.findElement(By.name("login")).click();
-        driver.manage().window().maximize();
-	}		
-    
+	@FindBy(id = "email")
+	WebElement emailInputForSignIn;
+
+	@FindBy(id = "pass")
+	WebElement passwordInputForSignIn;
+
+	@FindBy(name = "login")
+	WebElement signInSubmitButton;
+
+	public void openBrowser() {
+		driver.get(Constants.LoginURl);
+		driver.manage().window().maximize();
+	}
+
+	public void signinDetails() {
+		emailInputForSignIn.sendKeys(Constants.UserEmail);
+		passwordInputForSignIn.sendKeys(Constants.Password);
+	}
+
+	public void clickOnLogin() {
+		signInSubmitButton.click();
+	}
+
 }
-
-
