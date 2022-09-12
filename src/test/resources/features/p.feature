@@ -1,15 +1,26 @@
 Feature: facebook page
 
-@test1
-  Scenario Outline: i want to open the facebook login page 
+  @test1
+  Scenario: i want to open facebook page with invalid credentials
     Given i open the facebook page
-    And i Enter username and password
+    And i Enter invalid username and password
     When I click on login button
+    Then I want to see the inline error message
 
-@test2
-  Scenario Outline: i want to open the facebook login page and search for the person
+  @test1
+  Scenario: i want to open the facebook login page and search for the person
     Given i open the facebook page
     And i Enter username and password
     When I click on login button
-    Then I want to see the home page
-    And I want to search the person in home page    
+    
+    
+    
+  #@test1
+  #Scenario Outline: i want to open the facebook login page
+    #Given i open the facebook page
+    #And i Enter <username> and <password>
+    #When I click on login button
+
+    #Examples: 
+      #| <userName>       | <password> |
+      #| tejadt@gmail.com | nitt@123   |

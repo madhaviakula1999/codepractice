@@ -1,0 +1,164 @@
+2022-09-12 07:43:24.628 INFO [main] [io.github.bonigarcia.wdm.WebDriverManager.resolveDriverVersion(WebDriverManager.java:966)] - Using chromedriver 105.0.5195.52 (resolved driver for Chrome 105)
+2022-09-12 07:43:24.672 INFO [main] [io.github.bonigarcia.wdm.WebDriverManager.exportDriver(WebDriverManager.java:1021)] - Exporting webdriver.chrome.driver as C:\Users\Madhavi_Akula\.cache\selenium\chromedriver\win32\105.0.5195.52\chromedriver.exe
+2022-09-12 07:43:27.959 INFO [main] [com.epam.log.Log.info(Log.java:12)] - Opening browser
+2022-09-12 07:43:47.885 INFO [main] [com.epam.log.Log.info(Log.java:12)] - login successful
+2022-09-12 07:47:21.107 INFO [main] [io.github.bonigarcia.wdm.WebDriverManager.resolveDriverVersion(WebDriverManager.java:966)] - Using chromedriver 105.0.5195.52 (resolved driver for Chrome 105)
+2022-09-12 07:47:21.143 INFO [main] [io.github.bonigarcia.wdm.WebDriverManager.exportDriver(WebDriverManager.java:1021)] - Exporting webdriver.chrome.driver as C:\Users\Madhavi_Akula\.cache\selenium\chromedriver\win32\105.0.5195.52\chromedriver.exe
+2022-09-12 07:47:24.943 INFO [main] [com.epam.log.Log.info(Log.java:12)] - Opening browser
+2022-09-12 07:47:47.545 INFO [main] [com.epam.log.Log.info(Log.java:12)] - login successful
+2022-09-12 08:04:37.961 INFO [main] [io.github.bonigarcia.wdm.WebDriverManager.resolveDriverVersion(WebDriverManager.java:966)] - Using chromedriver 105.0.5195.52 (resolved driver for Chrome 105)
+2022-09-12 08:04:37.979 INFO [main] [io.github.bonigarcia.wdm.WebDriverManager.exportDriver(WebDriverManager.java:1021)] - Exporting webdriver.chrome.driver as C:\Users\Madhavi_Akula\.cache\selenium\chromedriver\win32\105.0.5195.52\chromedriver.exe
+2022-09-12 08:04:40.205 INFO [main] [com.epam.log.Log.info(Log.java:12)] - Opening browser
+2022-09-12 08:05:01.972 INFO [main] [com.epam.log.Log.info(Log.java:12)] - login successful
+2022-09-12 08:17:33.545 INFO [main] [io.github.bonigarcia.wdm.WebDriverManager.resolveDriverVersion(WebDriverManager.java:966)] - Using chromedriver 105.0.5195.52 (resolved driver for Chrome 105)
+2022-09-12 08:17:33.561 INFO [main] [io.github.bonigarcia.wdm.WebDriverManager.exportDriver(WebDriverManager.java:1021)] - Exporting webdriver.chrome.driver as C:\Users\Madhavi_Akula\.cache\selenium\chromedriver\win32\105.0.5195.52\chromedriver.exe
+2022-09-12 08:23:34.696 INFO [main] [io.github.bonigarcia.wdm.WebDriverManager.resolveDriverVersion(WebDriverManager.java:966)] - Using chromedriver 105.0.5195.52 (resolved driver for Chrome 105)
+2022-09-12 08:23:34.713 INFO [main] [io.github.bonigarcia.wdm.WebDriverManager.exportDriver(WebDriverManager.java:1021)] - Exporting webdriver.chrome.driver as C:\Users\Madhavi_Akula\.cache\selenium\chromedriver\win32\105.0.5195.52\chromedriver.exe
+2022-09-12 08:25:16.090 INFO [main] [io.github.bonigarcia.wdm.WebDriverManager.resolveDriverVersion(WebDriverManager.java:966)] - Using chromedriver 105.0.5195.52 (resolved driver for Chrome 105)
+2022-09-12 08:25:16.106 INFO [main] [io.github.bonigarcia.wdm.WebDriverManager.exportDriver(WebDriverManager.java:1021)] - Exporting webdriver.chrome.driver as C:\Users\Madhavi_Akula\.cache\selenium\chromedriver\win32\105.0.5195.52\chromedriver.exe
+2022-09-12 08:26:51.985 INFO [main] [io.github.bonigarcia.wdm.WebDriverManager.resolveDriverVersion(WebDriverManager.java:966)] - Using chromedriver 105.0.5195.52 (resolved driver for Chrome 105)
+2022-09-12 08:26:52.004 INFO [main] [io.github.bonigarcia.wdm.WebDriverManager.exportDriver(WebDriverManager.java:1021)] - Exporting webdriver.chrome.driver as C:\Users\Madhavi_Akula\.cache\selenium\chromedriver\win32\105.0.5195.52\chromedriver.exe
+2022-09-12 08:27:18.992 INFO [main] [io.github.bonigarcia.wdm.WebDriverManager.resolveDriverVersion(WebDriverManager.java:966)] - Using chromedriver 105.0.5195.52 (resolved driver for Chrome 105)
+2022-09-12 08:27:19.018 INFO [main] [io.github.bonigarcia.wdm.WebDriverManager.exportDriver(WebDriverManager.java:1021)] - Exporting webdriver.chrome.driver as C:\Users\Madhavi_Akula\.cache\selenium\chromedriver\win32\105.0.5195.52\chromedriver.exe
+2022-09-12 08:27:21.595 INFO [main] [com.epam.log.Log.info(Log.java:12)] - Opening browser
+2022-09-12 08:27:43.879 INFO [main] [com.epam.log.Log.info(Log.java:12)] - login successful
+2022-09-12 08:28:26.150 INFO [main] [io.github.bonigarcia.wdm.WebDriverManager.resolveDriverVersion(WebDriverManager.java:966)] - Using chromedriver 105.0.5195.52 (resolved driver for Chrome 105)
+2022-09-12 08:28:26.173 INFO [main] [io.github.bonigarcia.wdm.WebDriverManager.exportDriver(WebDriverManager.java:1021)] - Exporting webdriver.chrome.driver as C:\Users\Madhavi_Akula\.cache\selenium\chromedriver\win32\105.0.5195.52\chromedriver.exe
+2022-09-12 08:28:28.447 INFO [main] [com.epam.log.Log.info(Log.java:12)] - Opening browser
+2022-09-12 08:28:50.430 INFO [main] [com.epam.log.Log.info(Log.java:12)] - login successful
+2022-09-12 08:29:58.995 INFO [main] [io.github.bonigarcia.wdm.WebDriverManager.resolveDriverVersion(WebDriverManager.java:966)] - Using chromedriver 105.0.5195.52 (resolved driver for Chrome 105)
+2022-09-12 08:29:59.020 INFO [main] [io.github.bonigarcia.wdm.WebDriverManager.exportDriver(WebDriverManager.java:1021)] - Exporting webdriver.chrome.driver as C:\Users\Madhavi_Akula\.cache\selenium\chromedriver\win32\105.0.5195.52\chromedriver.exe
+2022-09-12 08:30:01.521 INFO [main] [com.epam.log.Log.info(Log.java:12)] - Opening browser
+2022-09-12 08:30:23.500 INFO [main] [com.epam.log.Log.info(Log.java:12)] - login successful
+2022-09-12 08:31:16.897 INFO [main] [io.github.bonigarcia.wdm.WebDriverManager.resolveDriverVersion(WebDriverManager.java:966)] - Using chromedriver 105.0.5195.52 (resolved driver for Chrome 105)
+2022-09-12 08:31:16.922 INFO [main] [io.github.bonigarcia.wdm.WebDriverManager.exportDriver(WebDriverManager.java:1021)] - Exporting webdriver.chrome.driver as C:\Users\Madhavi_Akula\.cache\selenium\chromedriver\win32\105.0.5195.52\chromedriver.exe
+2022-09-12 08:31:19.144 INFO [main] [com.epam.log.Log.info(Log.java:12)] - Opening browser
+2022-09-12 08:31:38.742 INFO [main] [com.epam.log.Log.info(Log.java:12)] - login successful
+2022-09-12 08:32:41.917 INFO [main] [io.github.bonigarcia.wdm.WebDriverManager.resolveDriverVersion(WebDriverManager.java:966)] - Using chromedriver 105.0.5195.52 (resolved driver for Chrome 105)
+2022-09-12 08:32:41.933 INFO [main] [io.github.bonigarcia.wdm.WebDriverManager.exportDriver(WebDriverManager.java:1021)] - Exporting webdriver.chrome.driver as C:\Users\Madhavi_Akula\.cache\selenium\chromedriver\win32\105.0.5195.52\chromedriver.exe
+2022-09-12 08:32:44.275 INFO [main] [com.epam.log.Log.info(Log.java:12)] - Opening browser
+2022-09-12 08:33:06.399 INFO [main] [com.epam.log.Log.info(Log.java:12)] - login successful
+2022-09-12 08:33:06.399 INFO [main] [com.epam.log.Log.info(Log.java:12)] - taking screenshot
+2022-09-12 08:33:29.779 INFO [main] [io.github.bonigarcia.wdm.WebDriverManager.resolveDriverVersion(WebDriverManager.java:966)] - Using chromedriver 105.0.5195.52 (resolved driver for Chrome 105)
+2022-09-12 08:33:29.796 INFO [main] [io.github.bonigarcia.wdm.WebDriverManager.exportDriver(WebDriverManager.java:1021)] - Exporting webdriver.chrome.driver as C:\Users\Madhavi_Akula\.cache\selenium\chromedriver\win32\105.0.5195.52\chromedriver.exe
+2022-09-12 08:33:31.997 INFO [main] [com.epam.log.Log.info(Log.java:12)] - Opening browser
+2022-09-12 08:33:54.113 INFO [main] [com.epam.log.Log.info(Log.java:12)] - login successful
+2022-09-12 08:33:54.371 INFO [main] [com.epam.log.Log.info(Log.java:12)] - taking screenshot
+2022-09-12 08:34:39.405 INFO [main] [io.github.bonigarcia.wdm.WebDriverManager.resolveDriverVersion(WebDriverManager.java:966)] - Using chromedriver 105.0.5195.52 (resolved driver for Chrome 105)
+2022-09-12 08:34:39.421 INFO [main] [io.github.bonigarcia.wdm.WebDriverManager.exportDriver(WebDriverManager.java:1021)] - Exporting webdriver.chrome.driver as C:\Users\Madhavi_Akula\.cache\selenium\chromedriver\win32\105.0.5195.52\chromedriver.exe
+2022-09-12 08:34:41.694 INFO [main] [com.epam.log.Log.info(Log.java:12)] - Opening browser
+2022-09-12 08:35:03.368 INFO [main] [com.epam.log.Log.info(Log.java:12)] - login successful
+2022-09-12 08:35:08.186 INFO [main] [com.epam.log.Log.info(Log.java:12)] - taking screenshot
+2022-09-12 08:39:32.323 INFO [main] [io.github.bonigarcia.wdm.WebDriverManager.resolveDriverVersion(WebDriverManager.java:966)] - Using chromedriver 105.0.5195.52 (resolved driver for Chrome 105)
+2022-09-12 08:39:32.341 INFO [main] [io.github.bonigarcia.wdm.WebDriverManager.exportDriver(WebDriverManager.java:1021)] - Exporting webdriver.chrome.driver as C:\Users\Madhavi_Akula\.cache\selenium\chromedriver\win32\105.0.5195.52\chromedriver.exe
+2022-09-12 08:39:34.640 INFO [main] [com.epam.log.Log.info(Log.java:12)] - Opening browser
+2022-09-12 08:39:56.489 INFO [main] [com.epam.log.Log.info(Log.java:12)] - login successful
+2022-09-12 08:40:01.383 INFO [main] [com.epam.log.Log.info(Log.java:12)] - taking screenshot
+2022-09-12 09:29:19.188 INFO [main] [io.github.bonigarcia.wdm.WebDriverManager.resolveDriverVersion(WebDriverManager.java:966)] - Using chromedriver 105.0.5195.52 (resolved driver for Chrome 105)
+2022-09-12 09:29:19.208 INFO [main] [io.github.bonigarcia.wdm.WebDriverManager.exportDriver(WebDriverManager.java:1021)] - Exporting webdriver.chrome.driver as C:\Users\Madhavi_Akula\.cache\selenium\chromedriver\win32\105.0.5195.52\chromedriver.exe
+2022-09-12 09:29:21.730 INFO [main] [com.epam.log.Log.info(Log.java:12)] - Opening browser
+2022-09-12 09:29:43.506 INFO [main] [com.epam.log.Log.info(Log.java:12)] - login successful
+2022-09-12 09:29:48.283 INFO [main] [com.epam.log.Log.info(Log.java:12)] - taking screenshot
+2022-09-12 09:49:27.004 INFO [main] [io.github.bonigarcia.wdm.WebDriverManager.resolveDriverVersion(WebDriverManager.java:966)] - Using chromedriver 105.0.5195.52 (resolved driver for Chrome 105)
+2022-09-12 09:49:27.021 INFO [main] [io.github.bonigarcia.wdm.WebDriverManager.exportDriver(WebDriverManager.java:1021)] - Exporting webdriver.chrome.driver as C:\Users\Madhavi_Akula\.cache\selenium\chromedriver\win32\105.0.5195.52\chromedriver.exe
+2022-09-12 09:49:29.455 INFO [main] [com.epam.log.Log.info(Log.java:12)] - Opening browser
+2022-09-12 09:49:51.442 INFO [main] [com.epam.log.Log.info(Log.java:12)] - login successful
+2022-09-12 09:49:56.256 INFO [main] [com.epam.log.Log.info(Log.java:12)] - taking screenshot
+2022-09-12 10:00:21.092 INFO [main] [io.github.bonigarcia.wdm.WebDriverManager.resolveDriverVersion(WebDriverManager.java:966)] - Using chromedriver 105.0.5195.52 (resolved driver for Chrome 105)
+2022-09-12 10:00:21.114 INFO [main] [io.github.bonigarcia.wdm.WebDriverManager.exportDriver(WebDriverManager.java:1021)] - Exporting webdriver.chrome.driver as C:\Users\Madhavi_Akula\.cache\selenium\chromedriver\win32\105.0.5195.52\chromedriver.exe
+2022-09-12 10:00:22.975 INFO [main] [com.epam.log.Log.info(Log.java:12)] - Opening browser
+2022-09-12 10:00:25.602 INFO [main] [com.epam.log.Log.info(Log.java:12)] - login successful
+2022-09-12 10:01:39.702 INFO [main] [io.github.bonigarcia.wdm.WebDriverManager.resolveDriverVersion(WebDriverManager.java:966)] - Using chromedriver 105.0.5195.52 (resolved driver for Chrome 105)
+2022-09-12 10:01:39.721 INFO [main] [io.github.bonigarcia.wdm.WebDriverManager.exportDriver(WebDriverManager.java:1021)] - Exporting webdriver.chrome.driver as C:\Users\Madhavi_Akula\.cache\selenium\chromedriver\win32\105.0.5195.52\chromedriver.exe
+2022-09-12 10:01:41.683 INFO [main] [com.epam.log.Log.info(Log.java:12)] - Opening browser
+2022-09-12 10:01:43.414 INFO [main] [com.epam.log.Log.info(Log.java:12)] - login successful
+2022-09-12 19:31:12.170 INFO [main] [io.github.bonigarcia.wdm.WebDriverManager.resolveDriverVersion(WebDriverManager.java:966)] - Using chromedriver 105.0.5195.52 (resolved driver for Chrome 105)
+2022-09-12 19:31:12.205 INFO [main] [io.github.bonigarcia.wdm.WebDriverManager.exportDriver(WebDriverManager.java:1021)] - Exporting webdriver.chrome.driver as C:\Users\Madhavi_Akula\.cache\selenium\chromedriver\win32\105.0.5195.52\chromedriver.exe
+2022-09-12 19:31:14.853 INFO [main] [com.epam.log.Log.info(Log.java:12)] - Opening browser
+2022-09-12 19:31:16.656 INFO [main] [com.epam.log.Log.info(Log.java:12)] - login successful
+2022-09-12 19:32:46.667 INFO [main] [io.github.bonigarcia.wdm.WebDriverManager.resolveDriverVersion(WebDriverManager.java:966)] - Using chromedriver 105.0.5195.52 (resolved driver for Chrome 105)
+2022-09-12 19:32:46.682 INFO [main] [io.github.bonigarcia.wdm.WebDriverManager.exportDriver(WebDriverManager.java:1021)] - Exporting webdriver.chrome.driver as C:\Users\Madhavi_Akula\.cache\selenium\chromedriver\win32\105.0.5195.52\chromedriver.exe
+2022-09-12 19:32:48.433 INFO [main] [com.epam.log.Log.info(Log.java:12)] - Opening browser
+2022-09-12 19:32:50.545 INFO [main] [com.epam.log.Log.info(Log.java:12)] - login successful
+2022-09-12 19:35:40.945 INFO [main] [io.github.bonigarcia.wdm.WebDriverManager.resolveDriverVersion(WebDriverManager.java:966)] - Using chromedriver 105.0.5195.52 (resolved driver for Chrome 105)
+2022-09-12 19:35:40.975 INFO [main] [io.github.bonigarcia.wdm.WebDriverManager.exportDriver(WebDriverManager.java:1021)] - Exporting webdriver.chrome.driver as C:\Users\Madhavi_Akula\.cache\selenium\chromedriver\win32\105.0.5195.52\chromedriver.exe
+2022-09-12 19:35:42.875 INFO [main] [com.epam.log.Log.info(Log.java:12)] - Opening browser
+2022-09-12 19:35:44.470 INFO [main] [com.epam.log.Log.info(Log.java:12)] - login successful
+2022-09-12 19:35:48.559 INFO [main] [com.epam.log.Log.info(Log.java:12)] - taking screenshot
+2022-09-12 19:35:48.946 INFO [main] [io.github.bonigarcia.wdm.WebDriverManager.resolveDriverVersion(WebDriverManager.java:966)] - Using chromedriver 105.0.5195.52 (resolved driver for Chrome 105)
+2022-09-12 19:35:48.962 INFO [main] [io.github.bonigarcia.wdm.WebDriverManager.exportDriver(WebDriverManager.java:1021)] - Exporting webdriver.chrome.driver as C:\Users\Madhavi_Akula\.cache\selenium\chromedriver\win32\105.0.5195.52\chromedriver.exe
+2022-09-12 19:35:49.848 INFO [main] [com.epam.log.Log.info(Log.java:12)] - Opening browser
+2022-09-12 19:35:51.125 INFO [main] [com.epam.log.Log.info(Log.java:12)] - login successful
+2022-09-12 19:38:07.438 INFO [main] [io.github.bonigarcia.wdm.WebDriverManager.resolveDriverVersion(WebDriverManager.java:966)] - Using chromedriver 105.0.5195.52 (resolved driver for Chrome 105)
+2022-09-12 19:38:07.455 INFO [main] [io.github.bonigarcia.wdm.WebDriverManager.exportDriver(WebDriverManager.java:1021)] - Exporting webdriver.chrome.driver as C:\Users\Madhavi_Akula\.cache\selenium\chromedriver\win32\105.0.5195.52\chromedriver.exe
+2022-09-12 19:38:09.191 INFO [main] [com.epam.log.Log.info(Log.java:12)] - Opening browser
+2022-09-12 19:38:11.106 INFO [main] [com.epam.log.Log.info(Log.java:12)] - login successful
+2022-09-12 19:38:16.416 INFO [main] [com.epam.log.Log.info(Log.java:12)] - taking screenshot
+2022-09-12 19:38:16.784 INFO [main] [io.github.bonigarcia.wdm.WebDriverManager.resolveDriverVersion(WebDriverManager.java:966)] - Using chromedriver 105.0.5195.52 (resolved driver for Chrome 105)
+2022-09-12 19:38:16.805 INFO [main] [io.github.bonigarcia.wdm.WebDriverManager.exportDriver(WebDriverManager.java:1021)] - Exporting webdriver.chrome.driver as C:\Users\Madhavi_Akula\.cache\selenium\chromedriver\win32\105.0.5195.52\chromedriver.exe
+2022-09-12 19:38:17.564 INFO [main] [com.epam.log.Log.info(Log.java:12)] - Opening browser
+2022-09-12 19:38:18.681 INFO [main] [com.epam.log.Log.info(Log.java:12)] - login successful
+2022-09-12 19:47:11.434 INFO [main] [io.github.bonigarcia.wdm.WebDriverManager.resolveDriverVersion(WebDriverManager.java:966)] - Using chromedriver 105.0.5195.52 (resolved driver for Chrome 105)
+2022-09-12 19:47:11.456 INFO [main] [io.github.bonigarcia.wdm.WebDriverManager.exportDriver(WebDriverManager.java:1021)] - Exporting webdriver.chrome.driver as C:\Users\Madhavi_Akula\.cache\selenium\chromedriver\win32\105.0.5195.52\chromedriver.exe
+2022-09-12 19:47:13.330 INFO [main] [com.epam.log.Log.info(Log.java:12)] - Opening browser
+2022-09-12 19:47:14.828 INFO [main] [com.epam.log.Log.info(Log.java:12)] - login successful
+2022-09-12 19:49:09.390 INFO [main] [io.github.bonigarcia.wdm.WebDriverManager.resolveDriverVersion(WebDriverManager.java:966)] - Using chromedriver 105.0.5195.52 (resolved driver for Chrome 105)
+2022-09-12 19:49:09.409 INFO [main] [io.github.bonigarcia.wdm.WebDriverManager.exportDriver(WebDriverManager.java:1021)] - Exporting webdriver.chrome.driver as C:\Users\Madhavi_Akula\.cache\selenium\chromedriver\win32\105.0.5195.52\chromedriver.exe
+2022-09-12 19:49:11.161 INFO [main] [com.epam.log.Log.info(Log.java:12)] - Opening browser
+2022-09-12 19:49:12.912 INFO [main] [com.epam.log.Log.info(Log.java:12)] - login successful
+2022-09-12 19:49:16.516 INFO [main] [com.epam.log.Log.info(Log.java:12)] - taking screenshot
+2022-09-12 19:49:16.874 INFO [main] [io.github.bonigarcia.wdm.WebDriverManager.resolveDriverVersion(WebDriverManager.java:966)] - Using chromedriver 105.0.5195.52 (resolved driver for Chrome 105)
+2022-09-12 19:49:16.890 INFO [main] [io.github.bonigarcia.wdm.WebDriverManager.exportDriver(WebDriverManager.java:1021)] - Exporting webdriver.chrome.driver as C:\Users\Madhavi_Akula\.cache\selenium\chromedriver\win32\105.0.5195.52\chromedriver.exe
+2022-09-12 19:49:17.693 INFO [main] [com.epam.log.Log.info(Log.java:12)] - Opening browser
+2022-09-12 19:49:19.016 INFO [main] [com.epam.log.Log.info(Log.java:12)] - login successful
+2022-09-12 19:51:20.864 INFO [main] [io.github.bonigarcia.wdm.WebDriverManager.resolveDriverVersion(WebDriverManager.java:966)] - Using chromedriver 105.0.5195.52 (resolved driver for Chrome 105)
+2022-09-12 19:51:20.886 INFO [main] [io.github.bonigarcia.wdm.WebDriverManager.exportDriver(WebDriverManager.java:1021)] - Exporting webdriver.chrome.driver as C:\Users\Madhavi_Akula\.cache\selenium\chromedriver\win32\105.0.5195.52\chromedriver.exe
+2022-09-12 19:51:22.729 INFO [main] [com.epam.log.Log.info(Log.java:12)] - Opening browser
+2022-09-12 19:52:01.707 INFO [main] [io.github.bonigarcia.wdm.WebDriverManager.resolveDriverVersion(WebDriverManager.java:966)] - Using chromedriver 105.0.5195.52 (resolved driver for Chrome 105)
+2022-09-12 19:52:01.735 INFO [main] [io.github.bonigarcia.wdm.WebDriverManager.exportDriver(WebDriverManager.java:1021)] - Exporting webdriver.chrome.driver as C:\Users\Madhavi_Akula\.cache\selenium\chromedriver\win32\105.0.5195.52\chromedriver.exe
+2022-09-12 19:52:03.467 INFO [main] [com.epam.log.Log.info(Log.java:12)] - Opening browser
+2022-09-12 19:52:04.666 INFO [main] [com.epam.log.Log.info(Log.java:12)] - login successful
+2022-09-12 19:52:08.361 INFO [main] [io.github.bonigarcia.wdm.WebDriverManager.resolveDriverVersion(WebDriverManager.java:966)] - Using chromedriver 105.0.5195.52 (resolved driver for Chrome 105)
+2022-09-12 19:52:08.365 INFO [main] [io.github.bonigarcia.wdm.WebDriverManager.exportDriver(WebDriverManager.java:1021)] - Exporting webdriver.chrome.driver as C:\Users\Madhavi_Akula\.cache\selenium\chromedriver\win32\105.0.5195.52\chromedriver.exe
+2022-09-12 19:52:09.172 INFO [main] [com.epam.log.Log.info(Log.java:12)] - Opening browser
+2022-09-12 19:52:10.489 INFO [main] [com.epam.log.Log.info(Log.java:12)] - login successful
+2022-09-12 19:54:56.870 INFO [main] [io.github.bonigarcia.wdm.WebDriverManager.resolveDriverVersion(WebDriverManager.java:966)] - Using chromedriver 105.0.5195.52 (resolved driver for Chrome 105)
+2022-09-12 19:54:56.894 INFO [main] [io.github.bonigarcia.wdm.WebDriverManager.exportDriver(WebDriverManager.java:1021)] - Exporting webdriver.chrome.driver as C:\Users\Madhavi_Akula\.cache\selenium\chromedriver\win32\105.0.5195.52\chromedriver.exe
+2022-09-12 19:54:58.545 INFO [main] [com.epam.log.Log.info(Log.java:12)] - Opening browser
+2022-09-12 19:54:59.831 INFO [main] [com.epam.log.Log.info(Log.java:12)] - login successful
+2022-09-12 19:55:03.223 INFO [main] [com.epam.log.Log.info(Log.java:12)] - taking screenshot
+2022-09-12 19:55:03.697 INFO [main] [io.github.bonigarcia.wdm.WebDriverManager.resolveDriverVersion(WebDriverManager.java:966)] - Using chromedriver 105.0.5195.52 (resolved driver for Chrome 105)
+2022-09-12 19:55:03.711 INFO [main] [io.github.bonigarcia.wdm.WebDriverManager.exportDriver(WebDriverManager.java:1021)] - Exporting webdriver.chrome.driver as C:\Users\Madhavi_Akula\.cache\selenium\chromedriver\win32\105.0.5195.52\chromedriver.exe
+2022-09-12 19:55:04.572 INFO [main] [com.epam.log.Log.info(Log.java:12)] - Opening browser
+2022-09-12 19:55:05.929 INFO [main] [com.epam.log.Log.info(Log.java:12)] - login successful
+2022-09-12 19:58:47.073 INFO [main] [io.github.bonigarcia.wdm.WebDriverManager.resolveDriverVersion(WebDriverManager.java:966)] - Using chromedriver 105.0.5195.52 (resolved driver for Chrome 105)
+2022-09-12 19:58:47.109 INFO [main] [io.github.bonigarcia.wdm.WebDriverManager.exportDriver(WebDriverManager.java:1021)] - Exporting webdriver.chrome.driver as C:\Users\Madhavi_Akula\.cache\selenium\chromedriver\win32\105.0.5195.52\chromedriver.exe
+2022-09-12 19:58:48.962 INFO [main] [com.epam.log.Log.info(Log.java:12)] - Opening browser
+2022-09-12 19:58:50.417 INFO [main] [com.epam.log.Log.info(Log.java:12)] - login successful
+2022-09-12 19:58:54.854 INFO [main] [com.epam.log.Log.info(Log.java:12)] - taking screenshot
+2022-09-12 19:58:55.243 INFO [main] [io.github.bonigarcia.wdm.WebDriverManager.resolveDriverVersion(WebDriverManager.java:966)] - Using chromedriver 105.0.5195.52 (resolved driver for Chrome 105)
+2022-09-12 19:58:55.261 INFO [main] [io.github.bonigarcia.wdm.WebDriverManager.exportDriver(WebDriverManager.java:1021)] - Exporting webdriver.chrome.driver as C:\Users\Madhavi_Akula\.cache\selenium\chromedriver\win32\105.0.5195.52\chromedriver.exe
+2022-09-12 19:58:56.059 INFO [main] [com.epam.log.Log.info(Log.java:12)] - Opening browser
+2022-09-12 19:58:57.353 INFO [main] [com.epam.log.Log.info(Log.java:12)] - login successful
+2022-09-12 20:00:20.961 INFO [main] [io.github.bonigarcia.wdm.WebDriverManager.resolveDriverVersion(WebDriverManager.java:966)] - Using chromedriver 105.0.5195.52 (resolved driver for Chrome 105)
+2022-09-12 20:00:20.988 INFO [main] [io.github.bonigarcia.wdm.WebDriverManager.exportDriver(WebDriverManager.java:1021)] - Exporting webdriver.chrome.driver as C:\Users\Madhavi_Akula\.cache\selenium\chromedriver\win32\105.0.5195.52\chromedriver.exe
+2022-09-12 20:00:24.420 INFO [main] [com.epam.log.Log.info(Log.java:12)] - Opening browser
+2022-09-12 20:00:24.712 INFO [main] [io.github.bonigarcia.wdm.WebDriverManager.resolveDriverVersion(WebDriverManager.java:966)] - Using chromedriver 105.0.5195.52 (resolved driver for Chrome 105)
+2022-09-12 20:00:24.765 INFO [main] [io.github.bonigarcia.wdm.WebDriverManager.exportDriver(WebDriverManager.java:1021)] - Exporting webdriver.chrome.driver as C:\Users\Madhavi_Akula\.cache\selenium\chromedriver\win32\105.0.5195.52\chromedriver.exe
+2022-09-12 20:00:26.131 INFO [main] [com.epam.log.Log.info(Log.java:12)] - login successful
+2022-09-12 20:00:28.255 INFO [main] [com.epam.log.Log.info(Log.java:12)] - Opening browser
+2022-09-12 20:00:29.799 INFO [main] [com.epam.log.Log.info(Log.java:12)] - login successful
+2022-09-12 20:03:57.279 INFO [main] [io.github.bonigarcia.wdm.WebDriverManager.resolveDriverVersion(WebDriverManager.java:966)] - Using chromedriver 105.0.5195.52 (resolved driver for Chrome 105)
+2022-09-12 20:03:57.311 INFO [main] [io.github.bonigarcia.wdm.WebDriverManager.exportDriver(WebDriverManager.java:1021)] - Exporting webdriver.chrome.driver as C:\Users\Madhavi_Akula\.cache\selenium\chromedriver\win32\105.0.5195.52\chromedriver.exe
+2022-09-12 20:03:59.789 INFO [main] [com.epam.log.Log.info(Log.java:12)] - Opening browser
+2022-09-12 20:04:01.369 INFO [main] [com.epam.log.Log.info(Log.java:12)] - login successful
+2022-09-12 20:04:05.306 INFO [main] [com.epam.log.Log.info(Log.java:12)] - taking screenshot
+2022-09-12 20:07:11.364 INFO [main] [io.github.bonigarcia.wdm.WebDriverManager.resolveDriverVersion(WebDriverManager.java:966)] - Using chromedriver 105.0.5195.52 (resolved driver for Chrome 105)
+2022-09-12 20:07:11.393 INFO [main] [io.github.bonigarcia.wdm.WebDriverManager.exportDriver(WebDriverManager.java:1021)] - Exporting webdriver.chrome.driver as C:\Users\Madhavi_Akula\.cache\selenium\chromedriver\win32\105.0.5195.52\chromedriver.exe
+2022-09-12 20:07:13.525 INFO [main] [com.epam.log.Log.info(Log.java:12)] - Opening browser
+2022-09-12 20:07:15.467 INFO [main] [com.epam.log.Log.info(Log.java:12)] - login successful
+2022-09-12 20:07:19.130 INFO [main] [com.epam.log.Log.info(Log.java:12)] - taking screenshot
+2022-09-12 20:07:19.791 INFO [main] [io.github.bonigarcia.wdm.WebDriverManager.resolveDriverVersion(WebDriverManager.java:966)] - Using chromedriver 105.0.5195.52 (resolved driver for Chrome 105)
+2022-09-12 20:07:19.810 INFO [main] [io.github.bonigarcia.wdm.WebDriverManager.exportDriver(WebDriverManager.java:1021)] - Exporting webdriver.chrome.driver as C:\Users\Madhavi_Akula\.cache\selenium\chromedriver\win32\105.0.5195.52\chromedriver.exe
+2022-09-12 20:07:20.652 INFO [main] [com.epam.log.Log.info(Log.java:12)] - Opening browser
+2022-09-12 20:07:21.989 INFO [main] [com.epam.log.Log.info(Log.java:12)] - login successful
