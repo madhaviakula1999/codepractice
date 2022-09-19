@@ -3,13 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="cucumber.Runner">
+      <class name="stepdefinitions.RestServicesStepDef">
         <methods>
-          <include name="setUpClass"/>
-          <include name="runScenario" invocation-numbers="0"/>
-          <include name="tearDownClass"/>
+          <include name="enter_login_details"/>
         </methods>
-      </class> <!-- cucumber.Runner -->
+      </class> <!-- stepdefinitions.RestServicesStepDef -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

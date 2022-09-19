@@ -7,20 +7,17 @@ Feature: facebook page
     When I click on login button
     Then I want to see the inline error message
 
-  @test1
+  @test2
   Scenario: i want to open the facebook login page and search for the person
     Given i open the facebook page
     And i Enter username and password
     When I click on login button
-    
-    
-    
-  #@test1
-  #Scenario Outline: i want to open the facebook login page
-    #Given i open the facebook page
-    #And i Enter <username> and <password>
-    #When I click on login button
 
-    #Examples: 
-      #| <userName>       | <password> |
-      #| tejadt@gmail.com | nitt@123   |
+  @api
+  Scenario: i want to hit the api for getting country details
+    Given I send the GET request to the end point url
+    
+    #Then response code is 200
+    #And Response body should contain values:
+      #| REG_EXP                                                  |
+      #| .*\\"message\\":\\"Invalid request - Rule not found\\".* |
